@@ -10,3 +10,4 @@ hello gito master test   1010101010
 hello atguigu hot-fix test 888  0000      the_last2222   101010
 11111111111111111111
 辟邪剑谱 果然厉害
+hello vscode
